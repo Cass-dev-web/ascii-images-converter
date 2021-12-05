@@ -17,5 +17,5 @@ I'll be showing you how to use this script in a few simple steps.
 - This doesn't support color.
 - This hasn't been tested on any other platform than windows.
 # Media
-Thanks to https://www.youtube.com/watch?v=v_raWlX7tZY for helping this become a thing.
+Thanks to [Kite](https://www.youtube.com/watch?v=v_raWlX7tZY) for helping this become a thing.
 ![Example1](https://user-images.githubusercontent.com/60286224/144768439-02250881-be78-48fa-8ab9-42f1d8f5f320.png)
