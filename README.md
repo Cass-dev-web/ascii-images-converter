@@ -10,12 +10,12 @@ The recommended width is 100, but you can also do 400 or 1000. Although, you nee
 - time [Incuded in python]
 # How to use
 I'll be showing you how to use this script in a few simple steps.
-Step 1: Download the master zip and extract it in a directory. 
-Step 2: Run the python script in a terminal
-Step 3: And finally, type out the asked information.
+- Step 1: Download the master zip and extract it in a directory. 
+- Step 2: Run the python script in a terminal
+- Step 3: And finally, type out the asked information.
 # Limitations
-This doesn't support color.
-This hasn't been tested on any other platform than windows.
+- This doesn't support color.
+- This hasn't been tested on any other platform than windows.
 # Media
 Thanks to https://www.youtube.com/watch?v=v_raWlX7tZY for helping this become a thing.
 ![Example1](https://user-images.githubusercontent.com/60286224/144768439-02250881-be78-48fa-8ab9-42f1d8f5f320.png)
